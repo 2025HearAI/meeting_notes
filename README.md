@@ -13,3 +13,8 @@ All about HearAI
 > ### 2025.03.19.
 > #### 2차 회의 진행 - 월별 계획 수립 및 주제 구체화
 > [0319회의록](https://github.com/2025HearAI/meeting_notes/blob/main/0319_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+
+> ### 2025.03.26.
+> #### 3차 회의 진행 - 논문 공부 공유 및 주간 계획 수립
+> [0326회의록](https://github.com/2025HearAI/meeting_notes/blob/main/0326_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+

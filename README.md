@@ -18,3 +18,11 @@ All about HearAI
 > #### 3차 회의 진행 - 논문 공부 공유 및 주간 계획 수립
 > [0326회의록](https://github.com/2025HearAI/meeting_notes/blob/main/0326_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
 
+> ### 2025.03.31.
+> #### 실증적 AI 개발 프로젝트I 2차 발표 진행 <br>
+> [2차 발표자료](https://github.com/2025HearAI/meeting_notes/issues/2) <br>
+> <br>
+> **회의 내용** <br>
+> 실제 사용될 논문 선정 완료함 <br>
+> 각자 논문 공부 후 논문 리뷰 업로드 예정 
+

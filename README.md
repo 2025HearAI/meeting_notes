@@ -26,3 +26,8 @@ All about HearAI
 > 실제 사용될 논문 선정 완료함 <br>
 > 각자 논문 공부 후 논문 리뷰 업로드 예정 
 
+
+> ### 2025.04.03.
+> #### 4차 회의 진행 - 논문 세미나 및 4월 계획 수립
+> [0403회의록](https://github.com/2025HearAI/meeting_notes/blob/main/0403_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+

@@ -40,3 +40,8 @@ All about HearAI
 > #### 5차 회의 진행 - 환경세팅 및 이번 주 계획 수립
 > [0415회의록](https://github.com/2025HearAI/meeting_notes/blob/main/0415_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
 
+> ### 2025.04.17.
+> #### 6차 회의 진행 - 개발 진행 상황 공유
+> [0417회의록](https://github.com/2025HearAI/meeting_notes/blob/main/0417_%ED%9A%8C%EC%9D%98%EB%A1%9D.md)
+
+
